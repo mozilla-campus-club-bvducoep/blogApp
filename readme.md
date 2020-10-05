@@ -1,4 +1,4 @@
-### A TECH BLOG APP (MADE BY - @SOMILJAIN7)
+### A TECH BLOG APP 
 
 
 
